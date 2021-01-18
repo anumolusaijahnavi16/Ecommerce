@@ -1,0 +1,15 @@
+com\ecommerce\orders\controller\OrdersController.class
+com\ecommerce\orders\dto\OrderProduct.class
+com\ecommerce\orders\dto\Product.class
+com\ecommerce\orders\dao\OrderRowMapper.class
+com\ecommerce\orders\OrdersApplication.class
+com\ecommerce\orders\dao\AddressRowMapper.class
+com\ecommerce\orders\service\OrdersService.class
+com\ecommerce\orders\dto\Payment.class
+com\ecommerce\orders\dto\Address.class
+com\ecommerce\orders\dto\Order.class
+com\ecommerce\orders\dao\OrderProductRowMapper.class
+com\ecommerce\orders\dao\PaymentRowMapper.class
+com\ecommerce\orders\dao\OrdersDao.class
+com\ecommerce\orders\config\SwaggerConfig.class
+com\ecommerce\orders\dao\ProductRowMapper.class
